@@ -1,2 +1,3 @@
-# crosscompute-workshops
-Content from our Workshops
+# CrossCompute Workshops
+
+Here is content from some of our workshops.
