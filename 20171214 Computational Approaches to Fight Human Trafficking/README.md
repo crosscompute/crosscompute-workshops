@@ -75,3 +75,5 @@ Aida Shoydokova
 Reshama Shaikh of NYC PyLadies
 Antonia
 Samantha
+
+new appreciation for conference organizers as it was a hell of a lot of work
