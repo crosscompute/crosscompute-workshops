@@ -41,14 +41,42 @@ We had a total of 44 recorded participants, not including Civic Hall members and
 - 17 participants from PyLadies NYC
 - 19 participants from EventBrite
 
+![We had 44 recorded participants thanks to CrossCompute, Civic Hall, PyLadies NYC and the Python Software Foundation](https://secure.meetupstatic.com/photos/event/6/1/8/5/600_475584965.jpeg).
+
 1. Olga Creutzburg, Business Director at CrossCompute, welcomed the audience.
 2. Reshama Shaikh, Co-Organizer of PyLadies NYC, explained the code of conduct and introduced Yuliya Zabyelina.
-3. Yuliya Zabyelina, Assistant Professor at CUNY John Jay College, presented an [overview of human trafficking from a criminal justice perspective](https://github.com/crosscompute/crosscompute-workshops/blob/master/20171214%20Computational%20Approaches%20to%20Fight%20Human%20Trafficking/1345%20Roy%20Hyunjin%20Han/Roy%20Hyunjin%20Han%20-%20You%20Can%20Create%20Tools%20to%20Influence%20Policy%2020171214%20(Edited).pdf).
+3. Yuliya Zabyelina, Assistant Professor at CUNY John Jay College, presented an [overview of human trafficking from a criminal justice perspective](https://github.com/crosscompute/crosscompute-workshops/blob/master/20171214%20Computational%20Approaches%20to%20Fight%20Human%20Trafficking/1245%20Yuliya%20Zabyelina/Yuliya%20Zabyelina%20-%20International%20Framework%20for%20Action%20against%20Trafficking%20in%20Human%20Beings%2020171214%20(Edited).pdf).
+
+![Professor Yuliya Zabyelina presents an overview of human trafficking from the criminal justice perspective](https://secure.meetupstatic.com/photos/event/6/1/9/3/600_475584979.jpeg).
+
+![Professor Yuliya Zabyelina defines human trafficking](https://secure.meetupstatic.com/photos/event/6/1/8/c/600_475584972.jpeg)
+
 4. Antonia Blair, Co-Organizer of PyLadies NYC, introduced Eric Schles.
+
+![Antonia Blair of PyLadies NYC introduces Eric Schles](https://secure.meetupstatic.com/photos/event/6/1/8/a/600_475584970.jpeg).
+
 5. Eric Schles, Adjunct Professor at NYU SCPS, walked through a [Jupyter Notebook analyzing child labor](https://crosscompute.com/n/j6NXUPd55tP3gCumE6S1fBtHB0B9StrS).
+
+![Eric Schles presents a statistical analysis of child labor](https://secure.meetupstatic.com/photos/event/6/1/9/2/600_475584978.jpeg).
+
+![Eric Schles walks through a Jupyter Notebook](https://secure.meetupstatic.com/photos/event/6/1/8/3/600_475584963.jpeg).
+
 6. Samantha Falk, Co-Organizer of PyLadies NYC, introduced Aida Shoydokova.
+
+![Samantha Falk of PyLadies NYC introduces Aida Shoydokova](https://secure.meetupstatic.com/photos/event/6/1/9/5/600_475584981.jpeg)
+
 7. Aida Shoydokova, Data Scientist at American Express, described her [experience applying web scraping and natural language processing to process U.S. Department of Justice court cases using Python](https://crosscompute.com/n/G1O5D8XrUWgVliOd2lbDdIrINe3j2nH2).
+
+![Aida Shoydokova presents her analysis of human trafficking records from U.S. Department of Justice court cases](https://secure.meetupstatic.com/photos/event/6/1/8/8/600_475584968.jpeg).
+
+![Aida Shoydokova explains part-of-speech tagging for lexical analysis and natural language processing](https://secure.meetupstatic.com/photos/event/6/1/8/6/600_475584966.jpeg).
+
 8. Roy Hyunjin Han, Computational Engineer at CrossCompute, encouraged the audience to [create computational tools to influence policy](https://github.com/crosscompute/crosscompute-workshops/blob/master/20171214%20Computational%20Approaches%20to%20Fight%20Human%20Trafficking/1345%20Roy%20Hyunjin%20Han/Roy%20Hyunjin%20Han%20-%20You%20Can%20Create%20Tools%20to%20Influence%20Policy%2020171214%20(Edited).pdf), then started participants on a [self-guided introduction to building a dataset from U.S. Department of Justice court cases using Python](https://crosscompute.com/n/BhkK4AlpPD4Hmn8O0mbDtrH0q4HzphfN).
+
+![Roy Hyunjin Han introduces the hands-on workshop](https://secure.meetupstatic.com/photos/event/6/1/9/7/600_475584983.jpeg).
+
+![Olga Creutzburg thanks the presenters and invites participants to stay for the hands-on workshop](https://secure.meetupstatic.com/photos/event/6/1/8/1/600_475584961.jpeg).
+
 9. Salah Ahmed, Software Engineer at CrossCompute, was in the audience and guided participants during the workshop. Yao Kou, User Experience Designer at CrossCompute, was also in the audience.
 10. Jennifer Ruda, Project Manager at CrossCompute, took photos and gathered handwritten feedback from participants using a [printed questionnaire](https://github.com/crosscompute/crosscompute-workshops/blob/master/20171214%20Computational%20Approaches%20to%20Fight%20Human%20Trafficking/Agenda%2020171214.pdf) and compiled the feedback into categories.
 
@@ -68,6 +96,8 @@ We had a total of 44 recorded participants, not including Civic Hall members and
     - Have the landing page be clearer about what the platform does
     - Walk the user through the steps of uploading a notebook
     - Walk the user through the steps of running a tool
+
+![Roy Hyunjin Han answers questions from Reshama Shaikh about using CrossCompute to create Python Tools from Jupyter Notebooks.](https://secure.meetupstatic.com/photos/event/6/1/8/f/600_475584975.jpeg).
 
 ## Conclusion
 Here is what we did well:
@@ -91,3 +121,5 @@ Here is what we would like to improve:
 - Reshama Shaikh (PyLadies NYC), Antonia Blair, Samantha Falk
 - Alena Amante (Civic Hall)
 - Betsy Waliszewski (Python Software Foundation)
+
+[![Create computational tools to influence policy](https://img.youtube.com/vi/x4TXnjCtD4I/0.jpg)](https://youtu.be/x4TXnjCtD4I)
