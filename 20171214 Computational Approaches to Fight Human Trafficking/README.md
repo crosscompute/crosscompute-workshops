@@ -116,7 +116,7 @@ Here is what we would like to improve:
 - Prepare a way for participants to continue contributing after the event. Several participants told us they wanted to help, but we did not know how to respond or how to organize a follow-up effort.
 
 ## Acknowledgments
-- Olga Creutzburg (CrossCompute), Salah Ahmed, Jennifer Ruda, Yao Kou
+- Olga Creutzburg (CrossCompute), Roy Hyunjin Han, Salah Ahmed, Jennifer Ruda, Yao Kou
 - Yuliya Zabyelina, Eric Schles, Aida Shoydokova
 - Reshama Shaikh (PyLadies NYC), Antonia Blair, Samantha Falk
 - Alena Amante (Civic Hall)
