@@ -122,4 +122,4 @@ Here is what we would like to improve:
 - Alena Amante (Civic Hall)
 - Betsy Waliszewski (Python Software Foundation)
 
-[![Create computational tools to influence policy](https://img.youtube.com/vi/x4TXnjCtD4I/0.jpg)](https://youtu.be/x4TXnjCtD4I)
+[![Create computational tools to influence policy](https://img.youtube.com/vi/x4TXnjCtD4I/0.jpg)](https://youtu.be/x4TXnjCtD4I "Click to watch video")
